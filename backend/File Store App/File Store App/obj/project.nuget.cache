@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+2jxmkFCFcvIf9goXxWlgzCn1YiEBPzv/ewUENYf6NOdbmYXMsO6nUp626/LloH0G2LCXb9a4Jp/UdKouhaMg==",
+  "success": true,
+  "projectFilePath": "/home/callum/Documents/projects/File Store App/backend/File Store App/File Store App/File Store App.csproj",
+  "expectedPackageFiles": [
+    "/home/callum/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/callum/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/callum/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/callum/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/callum/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/callum/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
